@@ -12,7 +12,7 @@ Outside class I like shipping things end-to-end: recruiting platforms, iOS games
 | project | tldr |
 |---|---|
 | **Collectora** | Full-stack iOS idle game (SwiftUI + Firebase) · 1st place, GT iOS Club bootcamp |
-| **Circle** | Full-stack recruiting platform (Django) · 2nd/80 teams in class competition |
+| **Circle** | Full-stack recruiting platform (Django) · 2nd in GT CS2340 competition |
 | **Atelier** | Offline-first fitness PWA · custom design system, Supabase sync |
 | **Behavioral Cloning** | Imitation-learning pipeline · MLP policy on MuJoCo locomotion, replay buffer + TensorBoard |
 | **Selcouth** | Daily site for rare, often untranslatable words · Next.js + TypeScript |
