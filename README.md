@@ -11,20 +11,21 @@ Outside class I like shipping things end-to-end: recruiting platforms, iOS games
 
 | project | tldr |
 |---|---|
-| **RRT\* Path Planner** | Optimal trajectory solver with recursive smoothing, 3D locomotion in Webots |
-| **Robot Localization** | Particle filter for autonomous localization using simulated LiDAR + wheel odometry |
-| **RGB-D Spatial Model** | Instance segmentation pipeline — RANSAC plane fitting + K-Means clustering |
-| **Circle** | Full-stack recruiting platform (Django + React) · 2nd/80 teams in class competition |
+| **Collectora** | Full-stack iOS idle game (SwiftUI + Firebase) · 1st place, GT iOS Club bootcamp |
+| **Circle** | Full-stack recruiting platform (Django) · 2nd/80 teams in class competition |
+| **Atelier** | Offline-first fitness PWA · custom design system, Supabase sync |
+| **Behavioral Cloning** | Imitation-learning pipeline · MLP policy on MuJoCo locomotion, replay buffer + TensorBoard |
+| **Selcouth** | Daily site for rare, often untranslatable words · Next.js + TypeScript |
 
 ---
 
 ### stack I actually use
 
-```
-Python · C · Java · JavaScript · Swift · MATLAB · Assembly
 
-Django · React · SwiftUI · NumPy · Scikit-learn · PostgreSQL · Firebase
-Linux · Git · Webots
+```
+Python · TypeScript · Java · C · Swift · JavaScript · MATLAB · Assembly (LC-3)
+
+Next.js · React · Django · SwiftUI · PyTorch · NumPy · Scikit-learn · PostgreSQL · Supabase · Firebase Linux · Git · Webots
 ```
 
 ---
