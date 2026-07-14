@@ -1,11 +1,8 @@
 # hey, I'm Mahir 👋
 
-CS sophomore at Georgia Tech concentrating in Systems & Architecture and Modeling & Simulation.
-Based in Atlanta.
+CS junior at Georgia Tech concentrating in Systems & Architecture and Modeling & Simulation. Based in Atlanta.
 
-I'm interested in the kind of software where precision matters such as robotics, simulation,
-telemetry, systems that have to be correct. I also just like building things for fun,
-which means I end up with a weird mix of path planners and small games living in the same GitHub.
+Outside class I like shipping things end-to-end: recruiting platforms, iOS games, robotics sims. I also enjoy building things just for fun, which means I end up with a weird mix of path planners and small games in the same place.
 
 ---
 
