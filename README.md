@@ -2,8 +2,6 @@
 
 CS junior at Georgia Tech, concentrating in Systems & Architecture and Modeling & Simulation. Based in Atlanta.
 
-Last summer I interned at two companies at once — built a production scheduling platform for a drilling company at Geo Lab, and LLM infrastructure for an AI legal-drafting platform at Casely. These days most of my code goes into AccessAble.
-
 ---
 
 ### what I'm working on
