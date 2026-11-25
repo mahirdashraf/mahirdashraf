@@ -8,7 +8,7 @@ CS junior at Georgia Tech, concentrating in Systems & Architecture and Modeling 
 
 **[AccessAble](https://github.com/gtiosclub/accessable)** — I lead the Maps & Location subteam at GT iOS Club. Turn-by-turn walking navigation for blind and low-vision users: location tracking, OpenStreetMap routing, off-route rerouting, and spoken turn cues based on the direction you're facing. 57 PRs merged, 500+ tests.
 
-**GT Motorsports (Formula SAE)** — vehicle dynamics simulations in MATLAB and Python. A 7-DOF virtual 7-post model solving body-mode frequencies and damping ratios, and a damping map built from shock-dyno data. *(team repo lives on GT enterprise)*
+**GT Motorsports (Formula SAE)** — vehicle dynamics simulations in MATLAB and Python. A 7-DOF virtual 7-post model solving body-mode frequencies and damping ratios, and a damping map built from shock-dyno data.
 
 **Animal Lab @ GT** — building a YOLO dataset to identify individual elephants at Zoo Atlanta, ~4,900 labeled boxes plus the tooling to validate them.
 
